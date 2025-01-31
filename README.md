@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # weather_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Muendesi-Weather-App
+Responsive weather application (Flutter)
+>>>>>>> d4054bb742c94c68f70f872fce14d49dac2bfe99
